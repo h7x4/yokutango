@@ -669,7 +669,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "å undersøke nøye"
       }
     ]
   },
@@ -682,7 +682,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "kompabilitet"
       }
     ]
   },
@@ -695,7 +695,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "barn"
       }
     ]
   },
@@ -708,7 +708,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "skoleemblem"
       }
     ]
   },
@@ -721,7 +721,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "dampfløyte"
       }
     ]
   },
@@ -734,7 +734,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "dårlig håndskrift"
       }
     ]
   },
@@ -747,7 +747,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "sosial klasse"
       }
     ]
   },
@@ -760,7 +760,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "å printe"
       }
     ]
   },
@@ -773,7 +773,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "duplikat"
       }
     ]
   },
@@ -786,7 +786,10 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "vanskelighet"
+      },
+      {
+        "word": "hardt arbeid"
       }
     ]
   },
@@ -799,7 +802,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "alarmhorn"
       }
     ]
   },
@@ -812,7 +815,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "førsteklasses"
       }
     ]
   },
@@ -825,7 +828,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "bråkete"
       }
     ]
   },
@@ -838,7 +841,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "å dele et bord med fremmede"
       }
     ]
   },
@@ -851,7 +854,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "slem gutt"
       }
     ]
   },
@@ -864,7 +867,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "retting med penn"
       }
     ]
   },
@@ -877,7 +880,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "utmattelse"
       }
     ]
   },
@@ -890,7 +893,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "klassekamerat"
       }
     ]
   },
@@ -903,7 +906,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "kappa"
       }
     ]
   },
@@ -916,7 +919,10 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "pocket edition"
+      },
+      {
+        "word": "miniatyr"
       }
     ]
   },
@@ -929,7 +935,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "å være modig"
       }
     ]
   },
@@ -942,7 +948,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "veldedighet"
       }
     ]
   },
@@ -955,7 +961,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "å være rik"
       }
     ]
   },
@@ -968,7 +974,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "skolebarn"
       }
     ]
   },
@@ -981,7 +987,7 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "nyutdannet"
       }
     ]
   },
@@ -994,20 +1000,447 @@
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "å fullføre"
       }
     ]
   },
   {
     "japanese": [
       {
-        "word": "",
-        "romaji": ""
+        "word": "害虫",
+        "romaji": "がいちゅう"
       }
     ],
     "norwegian": [
       {
-        "word": ""
+        "word": "farlig insekt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "半径",
+        "romaji": "はんけい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "radius"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "建設",
+        "romaji": "けんせつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "konstruksjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "麦芽",
+        "romaji": "ばくが"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "malt",
+        "hints": ["kornsort"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "郡",
+        "romaji": "ぐん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "distrikt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "失敗する",
+        "romaji": "しっぱいする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å feile"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "昨年",
+        "romaji": "さくねん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "i fjor"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "卒倒する",
+        "romaji": "そっとうする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å besvime"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "絶景",
+        "romaji": "ぜっけい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "fantastisk utsikt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "束",
+        "romaji": "たば"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "bunke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "栄える",
+        "romaji": "さかえる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å blomstre"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "教材",
+        "romaji": "きょうざい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "læremateriale"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "最果て",
+        "romaji": "さいはて"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "lengst borte"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "博識",
+        "romaji": "はくしき"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "stor kunnskap"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "深浅",
+        "romaji": "しんせん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "dybde"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "敗因",
+        "romaji": "はいいん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "grunn til tap"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "叶える",
+        "romaji": "かなえる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å oppfylle"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "唱える",
+        "romaji": "となえる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å lese opp"
+      },
+      {
+        "word": "å synge"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "征服する",
+        "romaji": "せいふく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å erobre"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "慎ましい",
+        "romaji": "つつましい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ydmyk"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "果てる",
+        "romaji": "はてる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli ferdig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "覗く",
+        "romaji": "のぞく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å titte inn"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "瞳",
+        "romaji": "ひとみ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "pupill"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "主語",
+        "romaji": "しゅご"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "subjekt",
+        "hints": ["språk"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "中断",
+        "romaji": "ちゅうだん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "forstyrrelse"
+      },
+      {
+        "word": "pause"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "呟く",
+        "romaji": "つぶやく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å mumle"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "忌まわしい",
+        "romaji": "いまわしい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "avskyelig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "和む",
+        "romaji": "なごむ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli myk"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "外れる",
+        "romaji": "はずれる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å løsne"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "果たす",
+        "romaji": "はたす"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å oppnå"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "埋める",
+        "romaji": "うめる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å begrave"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "栓",
+        "romaji": "せん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "kork"
+      },
+      {
+        "word": "plugg"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "指導者",
+        "romaji": "しどうしゃ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "leder"
       }
     ]
   }
