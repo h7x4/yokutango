@@ -1,0 +1,1076 @@
+[
+  {
+    "japanese": [
+      {
+        "word": "味",
+        "romaji": "あじ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "smak"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "いっぱい",
+        "romaji": "いっぱい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "full"
+      },
+      {
+        "word": "hele"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "砂",
+        "romaji": "すな"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sand"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "湖",
+        "romaji": "みずうみ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "innsjø"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "痩せる",
+        "romaji": "やせる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli tynn"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "踏む",
+        "romaji": "ふむ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å tråkke på"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "似る",
+        "romaji": "にる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å ligne på"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "場合",
+        "romaji": "ばあい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "situasjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "泥棒",
+        "romaji": "どろぼう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tyv"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "盗む",
+        "romaji": "ぬすむ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å stjele"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "席",
+        "romaji": "せき"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sete"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "突然",
+        "romaji": "とつぜん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "plutselig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "講堂",
+        "romaji": "こうどう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "auditorium"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "探す",
+        "romaji": "さがす"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å lete etter"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "気持ち",
+        "romaji": "きもち"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "følelse"
+      },
+      {
+        "word": "stemning"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "裏",
+        "romaji": "うら"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "andre siden"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "つもり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "intensjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "歯医者",
+        "romaji": "はいしゃ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tannlege"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "不便",
+        "romaji": "ふべん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "upraktiskhet",
+        "hints": ["inconvenience"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "周り",
+        "romaji": "まわり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "omstendigheter"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "見せる",
+        "romaji": "みせる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å vise"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "本棚",
+        "romaji": "ほんだな"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "bokhylle"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "入る",
+        "romaji": "はいる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å inneholde"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "など"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "og liknende",
+        "hints": ["etc"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "茶色",
+        "romaji": "ちゃいろ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "brun"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "厳しい",
+        "romaji": "きびしい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "strengt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "自由",
+        "romaji": "じゆう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "frihet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "電灯",
+        "romaji": "でんとう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "elektrisk lys"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "店員",
+        "romaji": "てんいん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "butikkassistent"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "軽い",
+        "romaji": "かるい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "lett",
+        "hints": ["lightweight"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "遅い",
+        "romaji": "おそい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sen"
+      },
+      {
+        "word": "treg"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "庭",
+        "romaji": "にわ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hage"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "驚く",
+        "romaji": "おどろく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli overrasket"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "看護師",
+        "romaji": "かんごし"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sykepleier"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "側",
+        "romaji": "そば"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "nær"
+      },
+      {
+        "word": "ved siden av"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "締める",
+        "romaji": "しめる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å knyte"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "笑う",
+        "romaji": "わらう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å le"
+      },
+      {
+        "word": "å smile"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "見える",
+        "romaji": "みえる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å være synlig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "戻る",
+        "romaji": "もどる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å snu"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "必要",
+        "romaji": "ひつよう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "nødvendig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "眠い",
+        "romaji": "ねむい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "søvnig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "田舎",
+        "romaji": "いなか"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ute på landet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "寂しい",
+        "romaji": "さびしい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ensom"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "深い",
+        "romaji": "ふかい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "dyp"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "花見",
+        "romaji": "はなみ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sakura-blomstring"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "珍しい",
+        "romaji": "めずらしい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sjelden"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "木綿",
+        "romaji": "もめん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "bomull"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "同じ",
+        "romaji": "おなじ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "samme"
+      },
+      {
+        "word": "lik"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "廊下",
+        "romaji": "ろうか"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "korridor"
+      },
+      {
+        "word": "gang"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "甘い",
+        "romaji": "あまい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "søt",
+        "hints": ["smak"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "会話",
+        "romaji": "かいわ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "samtale"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "辞典",
+        "romaji": "じてん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ordbok"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "棚",
+        "romaji": "たな"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hylle"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "普通",
+        "romaji": "ふつう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tog som stopper på hver togstasjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "約束",
+        "romaji": "やくそく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "et løfte"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "番組",
+        "romaji": "ばんぐみ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "program",
+        "hints": ["TV-", "radio-"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "塗る",
+        "romaji": "ぬる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å male"
+      },
+      {
+        "word": "å farge"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "眠る",
+        "romaji": "ねむる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å sove"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "動物園",
+        "romaji": "どうぶつえん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "dyrehage"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "駐車場",
+        "romaji": "ちゅうしゃじょう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "parkeringsplass"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "力",
+        "romaji": "ちから"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "styrke"
+      },
+      {
+        "word": "kraft"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ごちそう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "festmåltid"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "曇り",
+        "romaji": "くもり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "overskyet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "さあ、"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "vel,"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "誰か",
+        "romaji": "だれか"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "noen"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "戸",
+        "romaji": "と"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "japansk dør"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "箱",
+        "romaji": "はこ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "en boks"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "お腹",
+        "romaji": "おなか"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "mage"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "若い",
+        "romaji": "わかい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ung"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "お皿",
+        "romaji": "おさら"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "fat"
+      },
+      {
+        "word": "skål"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "小鳥",
+        "romaji": "ことり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "liten fugl"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "残念",
+        "romaji": "ざんねん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "skuffelse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "今度",
+        "romaji": "こんど"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "denne gangen"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "趣味",
+        "romaji": "しゅみ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hobby"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "直る",
+        "romaji": "なおる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli fikset"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "指輪",
+        "romaji": "ゆびわ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "en ring"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "焼ける",
+        "romaji": "やける"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli brent"
+      },
+      {
+        "word": "å bli grillet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "今夜",
+        "romaji": "こんや"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "i kveld"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "祖父",
+        "romaji": "そふ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "bestefar"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "祖母",
+        "romaji": "そぼ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "bestemor"
+      }
+    ]
+  }
+]
