@@ -1,0 +1,1301 @@
+[
+  {
+    "japanese": [
+      {
+        "word": "言葉",
+        "romaji": "ことば"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ord"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "文",
+        "romaji": "ぶん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "setning"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "重要",
+        "romaji": "じゅうよう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "viktig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "〜の前で",
+        "romaji": "〜のまえで"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "før"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "volitional verb + とする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å prøve"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "道具",
+        "romaji": "どうぐ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "verktøy"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "歯",
+        "romaji": "は"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tann"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "足の指",
+        "romaji": "あしのゆび"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tå"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "雷",
+        "romaji": "かみなり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "lyn"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "植物",
+        "romaji": "しょくぶつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "plante"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "機械",
+        "romaji": "きかい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "maskin"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "歌詞",
+        "romaji": "かし"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sangtekst"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "鉄",
+        "romaji": "てつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "jern"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "重い",
+        "romaji": "おもい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tung"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "かたい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hard"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "電卓",
+        "romaji": "でんたく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "kalkulator"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ひげ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "skjegg"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "豆",
+        "romaji": "まめ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "bønne"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "引く",
+        "romaji": "ひく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å trekke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "押す",
+        "romaji": "おす"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å dytte"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "目的",
+        "romaji": "もくてき"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "grunn"
+      },
+      {
+        "word": "formål"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ばった"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "gresshoppe"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "あられ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "haggel"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "果物",
+        "romaji": "くだもの"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "frukt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "遠い",
+        "romaji": "とおい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "langt",
+        "hints": ["avstand"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "大人",
+        "romaji": "おとな"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "voksen"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "若者",
+        "romaji": "わかもの"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ungdom"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "弱い",
+        "romaji": "よわい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "svak"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "動物",
+        "romaji": "どうぶつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "dyr"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "正しい",
+        "romaji": "ただしい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "riktig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "違う",
+        "romaji": "ちがう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "feil"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "本日",
+        "romaji": "ほんじつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "i dag"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "焼く",
+        "romaji": "やく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å grille"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "当惑する",
+        "romaji": "とうわくする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli forvirret"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "慣れる",
+        "romaji": "なれる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli vant til"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "記憶",
+        "romaji": "きおく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "minne"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "金属",
+        "romaji": "きんぞく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "metall"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "麺",
+        "romaji": "めん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "nudler"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "鼻",
+        "romaji": "はな"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "nese"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "普通",
+        "romaji": "ふつう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "normal"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "水たまり",
+        "romaji": "みずたまり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "pytt",
+        "hints": ["søle-"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "危ない",
+        "romaji": "あぶない"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "farlig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "踊る",
+        "romaji": "おどる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å danse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "はさみ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "saks"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "繰り返す",
+        "romaji": "くりかえす"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å si om igjen"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "規則",
+        "romaji": "きそく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "regel"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "急ぐ",
+        "romaji": "いそぐ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å forte seg"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "森",
+        "romaji": "もり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "skog"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ぶどう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "druer"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "草",
+        "romaji": "くさ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "gress"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "暗記する",
+        "romaji": "あんきする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å lære utenat"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "訳す",
+        "romaji": "やくす"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å oversette"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "あいまい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "vagt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "〜経由",
+        "romaji": "けいゆ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "via~"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "村",
+        "romaji": "むら"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tettsted",
+        "hints": ["liten by"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "洗濯機",
+        "romaji": "せんたくき"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "vaskemaskin"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "全部",
+        "romaji": "ぜんぶ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hel"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "地図",
+        "romaji": "ちず"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "kart"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "国境",
+        "romaji": "こっき"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "nasjonalflagg"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "外",
+        "romaji": "そと"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ute"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ぶた"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "gris"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "はと"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "due"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "じゃがいも"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "potet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "問題",
+        "romaji": "もんだい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "vanskeligheter"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "討論",
+        "romaji": "とうろん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "diskusjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "災害",
+        "romaji": "さいがい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ulykke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "輪ゴム",
+        "romaji": "わゴム"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "strikk"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "鹿",
+        "romaji": "しか"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hjort"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ファイル"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "mappe",
+        "hints": ["fysisk"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "水筒",
+        "romaji": "すいとう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "vannflaske"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "釣り",
+        "romaji": "つり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "fisking"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "洗濯",
+        "romaji": "せんたく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "skittentøy"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "羊",
+        "romaji": "ひつじ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sau"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "彼女",
+        "romaji": "かのじょ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hun"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "彼",
+        "romaji": "かれ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "han"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ねじ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "skrue"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "秘密",
+        "romaji": "ひみつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hemmelig",
+        "hints": ["-het"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "そる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å barbere"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "さめ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hai"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "流",
+        "romaji": "ながし"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "en vask"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "におい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "lukt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "汁",
+        "romaji": "しる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "suppe"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "胃",
+        "romaji": "い"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "mage"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "道",
+        "romaji": "みち"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "gate"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "太陽",
+        "romaji": "たいよう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sol"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "温度",
+        "romaji": "おんど"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "temperatur"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "喉",
+        "romaji": "のど"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hals"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "制服",
+        "romaji": "せいふく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "uniform"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "地下鉄",
+        "romaji": "ちかてつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "T-bane"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "簡単",
+        "romaji": "かんたｎ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "enkel"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "わし"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ørn"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "あひる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "and"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "絵",
+        "romaji": "え"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tegning"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "からす"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "kråke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ちょうちょう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sommerfugl"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "仕事",
+        "romaji": "しごと"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "oppgave"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "答え",
+        "romaji": "こたえ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "svar"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "滝",
+        "romaji": "たき"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "foss"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "健康",
+        "romaji": "けんこう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "helse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ほこり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "støv"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "にんにく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hvitløk"
+      }
+    ]
+  }
+]
