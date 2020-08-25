@@ -1,0 +1,88 @@
+{
+  "yokutango entry": {
+    "prefix": "j",
+    "body": [
+      "{",
+      "  \"japanese\": [",
+      "    {",
+      "      \"word\": \"$2\",",
+      "      \"romaji\": \"$3\"",
+      "    }",
+      "  ],",
+      "  \"norwegian\": [",
+      "    {",
+      "      \"word\": \"$1\"",
+      "    }",
+      "  ]",
+      "},",
+      ""
+    ],
+    "description": "Schema for an entry in the yokutango project"
+  },
+    "yokutango entry 2w": {
+    "prefix": "j2",
+    "body": [
+      "{",
+      "  \"japanese\": [",
+      "    {",
+      "      \"word\": \"$3\",",
+      "      \"romaji\": \"$4\"",
+      "    }",
+      "  ],",
+      "  \"norwegian\": [",
+      "    {",
+      "      \"word\": \"$1\"",
+      "    },",
+      "    {",
+      "      \"word\": \"$2\"",
+      "    }",
+      "  ]",
+      "},",
+      ""
+    ],
+    "description": "Schema for a 2w entry in the yokutango project"
+  },
+  "yokutango entry w3": {
+    "prefix": "j3",
+    "body": [
+      "{",
+      "  \"japanese\": [",
+      "    {",
+      "      \"word\": \"$4\",",
+      "      \"romaji\": \"$5\"",
+      "    }",
+      "  ],",
+      "  \"norwegian\": [",
+      "    {",
+      "      \"word\": \"$1\"",
+      "    },",
+      "    {",
+      "      \"word\": \"$2\"",
+      "    },",
+      "    {",
+      "      \"word\": \"$3\"",
+      "    }",
+      "  ]",
+      "},",
+      ""
+    ],
+    "description": "Schema for a w3 entry in the yokutango project"
+  },
+  "word yokutango entry": {
+    "prefix": "w",
+    "body": [
+      "{",
+      "  \"word\": \"$1\"",
+      "}"
+    ],
+    "description": "Schema for an entry in the norwegian section of an yokutango element"
+  },
+  "hints yokutango entry": {
+    "prefix": "h",
+    "body": [
+      ",",
+      "\"hints\": [\"$1\"]"
+    ],
+    "description": "Schema for a hints entry in the norwegian section of an yokutango element"
+  },
+}
