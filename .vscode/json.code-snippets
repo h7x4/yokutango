@@ -19,7 +19,7 @@
     ],
     "description": "Schema for an entry in the yokutango project"
   },
-    "yokutango entry 2w": {
+  "yokutango entry 2w": {
     "prefix": "j2",
     "body": [
       "{",
@@ -84,5 +84,53 @@
       "\"hints\": [\"$1\"]"
     ],
     "description": "Schema for a hints entry in the norwegian section of an yokutango element"
+  },
+  "kanji entry 1": {
+    "prefix": "k",
+    "body": [
+      "{",
+      "  \"kana\": [\"$1\"],",
+      "  \"kanji\": \"$2\"",
+      "},",
+      "$0",
+    ]
+  },
+  "kanji entry 2": {
+    "prefix": "k2",
+    "body": [
+      "{",
+      "  \"kana\": [\"$1\", \"$2\"],",
+      "  \"kanji\": \"$2\"",
+      "},",
+      "$0",
+    ]
+  },
+  "kanji entry special 1": {
+    "prefix": "ks",
+    "body": [
+      "{",
+      "  \"kana\": [ [{ \"text\": \"$1\", \"active\": true }, { \"text\": \"$2\" }] ],",
+      "  \"kanji\": \"$3\"",
+      "},",
+      "$0",
+    ]
+  },
+  "kanji entry special 2": {
+    "prefix": "ks2",
+    "body": [
+      "{",
+      "  \"kana\": [ [{ \"text\": \"$1\" }, { \"text\": \"$2\", \"active\": true }] ],",
+      "  \"kanji\": \"$3\"",
+      "},",
+      "$0",
+    ]
+  },
+  "kanji word special 1": {
+    "prefix": "s1",
+    "body": ", [{ \"text\": \"$1\", \"active\": true }, { \"text\": \"$2\" }] ]$"
+  },
+  "kanji word special 2": {
+    "prefix": "s2",
+    "body": ", [{ \"text\": \"$1\" }, { \"text\": \"$2\", \"active\": true }] ]$"
   },
 }
