@@ -1,0 +1,427 @@
+[
+  {
+    "kana": ["ゆき"],
+    "kanji": "雪"
+  },
+  {
+    "kana": ["おねえさん"],
+    "kanji": "姉"
+  },
+  {
+    "kana": ["おにいさん"],
+    "kanji": "兄"
+  },
+  {
+    "kana": ["いもうと"],
+    "kanji": "妹"
+  },
+  {
+    "kana": ["おとうと"],
+    "kanji": "弟"
+  },
+  {
+    "kana": [ [{ "text": "き", "active": true }, { "text": "車" }] ],
+    "kanji": "汽"
+  },
+  {
+    "kana": ["ふね"],
+    "kanji": "船"
+  },
+  {
+    "kana": [ [{ "text": "き", "active": true }, { "text": "色" }] ],
+    "kanji": "黄"
+  },
+  {
+    "kana": [ [{ "text": "教" }, { "text": "しつ", "active": true }] ],
+    "kanji": "室"
+  },
+  {
+    "kana": [
+      [{ "text": "計" }, { "text": "さん", "active": true }],
+      [{ "text": "さん", "active": true }, { "text": "数" }]
+    ],
+    "kanji": "算"
+  },
+  {
+    "kana": [ [{ "text": "生" }, { "text": "かつ", "active": true }] ],
+    "kanji": "活"
+  },
+  {
+    "kana": ["よわい"],
+    "kanji": "弱"
+  },
+  {
+    "kana": ["はし"],
+    "kanji": "橋",
+    "hints": ["bro"]
+  },
+  {
+    "kana": ["さむい"],
+    "kanji": "寒"
+  },
+  {
+    "kana": ["みずうみ"],
+    "kanji": "湖"
+  },
+  {
+    "kana": [ [{ "text": "に", "active": true }, { "text": "持" }] ],
+    "kanji": "荷"
+  },
+  {
+    "kana": ["まける"],
+    "kanji": "負"
+  },
+  {
+    "kana": [ [{ "text": "い", "active": true }, { "text": "者" }] ],
+    "kanji": "医"
+  },
+  {
+    "kana": ["たすける"],
+    "kanji": "助"
+  },
+  {
+    "kana": ["さか"],
+    "kanji": "坂",
+    "hints": ["bakke"]
+  },
+  {
+    "kana": [ [{ "text": "道" }, { "text": "ぐ", "active": true }] ],
+    "kanji": "具"
+  },
+  {
+    "kana": ["およぐ"],
+    "kanji": "泳ぐ"
+  },
+  {
+    "kana": ["あぶら"],
+    "kanji": "油"
+  },
+  {
+    "kana": ["すむ"],
+    "kanji": "住"
+  },
+  {
+    "kana": ["しお"],
+    "kanji": "塩"
+  },
+  {
+    "kana": ["はたらく"],
+    "kanji": "働"
+  },
+  {
+    "kana": [ [{ "text": "くもの" }, { "text": "す", "active": true }] ],
+    "kanji": "巣"
+  },
+  {
+    "kana": ["わらう"],
+    "kanji": "笑"
+  },
+  {
+    "kana": ["ころす"],
+    "kanji": "殺"
+  },
+  {
+    "kana": [
+      [{ "text": "〇", "active": true }, { "text": "日" }],
+      "きのう"
+    ],
+    "kanji": "昨"
+  },
+  {
+    "kana": ["かたい"],
+    "kanji": "固"
+  },
+  {
+    "kana": ["つめたい"],
+    "kanji": "冷"
+  },
+  {
+    "kana": ["すき", "このむ"],
+    "kanji": "好"
+  },
+  {
+    "kana": ["なる"],
+    "kanji": "成"
+  },
+  {
+    "kana": [
+      "なく",
+      [{ "text": "雷" }, { "text": "めい", "active": true }],
+      "なる"
+    ],
+    "kanji": "鳴"
+  },
+  {
+    "kana": ["くさ"],
+    "kanji": "草"
+  },
+  {
+    "kana": ["ぬるい"],
+    "kanji": "温"
+  },
+  {
+    "kana": ["きえる"],
+    "kanji": "消"
+  },
+  {
+    "kana": [ [{ "text": "き", "active": true }, { "text": "械" }] ],
+    "kanji": "機"
+  },
+  {
+    "kana": ["かえる"],
+    "kanji": "変",
+    "hints": ["å forandre"]
+  },
+  {
+    "kana": ["こな"],
+    "kanji": "粉"
+  },
+  {
+    "kana": ["かみなり"],
+    "kanji": "雷"
+  },
+  {
+    "kana": ["たび"],
+    "kanji": "旅"
+  },
+  {
+    "kana": ["なみ"],
+    "kanji": "波"
+  },
+  {
+    "kana": [ [{ "text": "石" }, { "text": "たん", "active": true }] ],
+    "kanji": "炭"
+  },
+  {
+    "kana": [ [{ "text": "びょう", "active": true }, { "text": "気" }] ],
+    "kanji": "病"
+  },
+  {
+    "kana": [ [{ "text": "広島" }, { "text": "けん", "active": true }] ],
+    "kanji": "県"
+  },
+  {
+    "kana": ["おまつり"],
+    "kanji": "祭"
+  },
+  {
+    "kana": [
+      [{ "text": "れん", "active": true }, { "text": "習" }],
+      "ねる"
+    ],
+    "kanji": "練"
+  },
+  {
+    "kana": ["おきる"],
+    "kanji": "起"
+  },
+  {
+    "kana": [
+      "はやい",
+      [{ "text": "そく", "active": true }, { "text": "度" }]
+    ],
+    "kanji": "速"
+  },
+  {
+    "kana": ["はな"],
+    "kanji": "鼻",
+    "hints": ["nese"]
+  },
+  {
+    "kana": ["えき"],
+    "kanji": "駅"
+  },
+  {
+    "kana": [ [{ "text": "よう", "active": true }, { "text": "気" }] ],
+    "kanji": "陽"
+  },
+  {
+    "kana": [ [{ "text": "ぎん", "active": true }, { "text": "行" }] ],
+    "kanji": "銀"
+  },
+  {
+    "kana": [
+      [{ "text": "実" }, { "text": "れい", "active": true }],
+      "たとえば"
+    ],
+    "kanji": "例"
+  },
+  {
+    "kana": ["かりる"],
+    "kanji": "借"
+  },
+  {
+    "kana": [ [{ "text": "ゆう", "active": true }, { "text": "気" }] ],
+    "kanji": "勇"
+  },
+  {
+    "kana": ["おっと"],
+    "kanji": "夫"
+  },
+  {
+    "kana": ["せき"],
+    "kanji": "席"
+  },
+  {
+    "kana": ["あい"],
+    "kanji": "愛"
+  },
+  {
+    "kana": ["たたかう"],
+    "kanji": "戦"
+  },
+  {
+    "kana": [ [{ "text": "くだ", "active": true }, { "text": "物" }] ],
+    "kanji": "果"
+  },
+  {
+    "kana": [ [{ "text": "自" }, { "text": "ぜん", "active": true }] ],
+    "kanji": "然"
+  },
+  {
+    "kana": ["やく"],
+    "kanji": "焼"
+  },
+  {
+    "kana": [ [{ "text": "目" }, { "text": "てき", "active": true }] ],
+    "kanji": "的"
+  },
+  {
+    "kana": ["い"],
+    "kanji": "胃",
+    "hints": ["mage"]
+  },
+  {
+    "kana": [ [{ "text": "し", "active": true }, { "text": "験" }] ],
+    "kanji": "試"
+  },
+  {
+    "kana": ["かがみ"],
+    "kanji": "鏡"
+  },
+  {
+    "kana": ["しずか"],
+    "kanji": "静"
+  },
+  {
+    "kana": ["とぶ"],
+    "kanji": "飛"
+  },
+  {
+    "kana": [ [{ "text": "くん", "active": true }, { "text": "読み" }] ],
+    "kanji": "訓"
+  },
+  {
+    "kana": ["おはか"],
+    "kanji": "墓"
+  },
+  {
+    "kana": [ [{ "text": "さい", "active": true }, { "text": "難" }] ],
+    "kanji": "災"
+  },
+  {
+    "kana": ["わた"],
+    "kanji": "綿"
+  },
+  {
+    "kana": ["した"],
+    "kanji": "舌",
+    "hints": ["tunge"]
+  },
+  {
+    "kana": ["すっぱい", "〜さん"],
+    "kanji": "酸"
+  },
+  {
+    "kana": ["きびしい"],
+    "kanji": "厳"
+  },
+  {
+    "kana": ["おしろ"],
+    "kanji": "城"
+  },
+  {
+    "kana": ["すわる"],
+    "kanji": "座"
+  },
+  {
+    "kana": ["わすれる"],
+    "kanji": "忘"
+  },
+  {
+    "kana": ["あたたかい"],
+    "kanji": "暖"
+  },
+  {
+    "kana": ["つくえ"],
+    "kanji": "机"
+  },
+  {
+    "kana": ["いたい"],
+    "kanji": "痛"
+  },
+  {
+    "kana": ["あな"],
+    "kanji": "穴"
+  },
+  {
+    "kana": [ [{ "text": "きん", "active": true }, { "text": "肉" }] ],
+    "kanji": "筋"
+  },
+  {
+    "kana": [ [{ "text": "砂" }, { "text": "とう", "active": true }] ],
+    "kanji": "糖"
+  },
+  {
+    "kana": ["うら"],
+    "kanji": "裏"
+  },
+  {
+    "kana": ["こつ"],
+    "kanji": "骨"
+  },
+  {
+    "kana": ["はり"],
+    "kanji": "針"
+  },
+  {
+    "kana": ["わかい"],
+    "kanji": "若"
+  },
+  {
+    "kana": ["のう"],
+    "kanji": "脳"
+  },
+  {
+    "kana": ["あまい"],
+    "kanji": "甘"
+  },
+  {
+    "kana": ["おに"],
+    "kanji": "鬼"
+  },
+  {
+    "kana": ["ねる"],
+    "kanji": "寝"
+  },
+  {
+    "kana": ["いそがしい"],
+    "kanji": "忙"
+  },
+  {
+    "kana": ["うで"],
+    "kanji": "腕"
+  },
+  {
+    "kana": ["ねむる"],
+    "kanji": "眠"
+  },
+  {
+    "kana": [ [{ "text": "ぼう", "active": true }, { "text": "子" }] ],
+    "kanji": "帽"
+  },
+  {
+    "kana": ["かべ"],
+    "kanji": "壁"
+  }
+]
