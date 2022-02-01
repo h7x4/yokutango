@@ -32,7 +32,7 @@
     "japanese": [
       {
         "word": "地震",
-        "romaji": "じしｎ"
+        "romaji": "じしん"
       }
     ],
     "norwegian": [
@@ -141,8 +141,7 @@
   {
     "japanese": [
       {
-        "word": "おかしい",
-        "romaji": "おかしい"
+        "word": "おかしい"
       }
     ],
     "norwegian": [
@@ -424,8 +423,8 @@
   {
     "japanese": [
       {
-        "word": "寝坊",
-        "romaji": "ねぼう"
+        "word": "寝坊する",
+        "romaji": "ねぼうする"
       }
     ],
     "norwegian": [

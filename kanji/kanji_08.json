@@ -9,7 +9,7 @@
   },
   {
     "kana": [
-      [{ "text": "う" }, { "text": "宙", "active": true }],
+      [{ "text": "う" }, { "text": "ちゅう", "active": true }],
       "ちゅう"
     ],
     "kanji": "宙"
@@ -178,7 +178,7 @@
   {
     "kana": [
       "やぶる",
-      [{ "text": "は" }, { "text": "産", "active": true }]
+      [{ "text": "は", "active": true }, { "text": "産" }]
     ],
     "kanji": "破"
   },
