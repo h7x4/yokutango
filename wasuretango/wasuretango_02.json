@@ -1,0 +1,1392 @@
+[
+  {
+    "japanese": [
+      {
+        "word": "教わる",
+        "romaji": "おそわる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli lært"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "繋がり",
+        "romaji": "つながり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sammenkobling"
+      },
+      {
+        "word": "sammenheng"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "参考",
+        "romaji": "さんこう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "referanse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "沈む",
+        "romaji": "しずむ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å synke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "多量",
+        "romaji": "たりょう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "stor mengde"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "体力",
+        "romaji": "たいりょく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "kroppsstyrke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "わな"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "en felle"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "発見する",
+        "romaji": "はっけんする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å oppdage"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "包む",
+        "romaji": "つつむ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å pakke inn"
+      },
+      {
+        "word": "to wrap"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "体積",
+        "romaji": "たいせき"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "volum",
+        "hints": ["fysikk"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "配る",
+        "romaji": "くばる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å fordele"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "枠",
+        "romaji": "わく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ramme"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "住所",
+        "romaji": "じゅうしょ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "adresse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "共用する",
+        "romaji": "きょうようする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å dele",
+        "hints": ["med andre"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "サイコロ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "terning"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "世代",
+        "romaji": "せだい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "generasjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "下品",
+        "romaji": "げひん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "vulgær"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "わら"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "høy",
+        "hints": ["hestemat"]
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "幸",
+        "romaji": "さち"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hell og lykke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "和らぐ",
+        "romaji": "やわらぐ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å mykne opp"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "潜る",
+        "romaji": "もぐる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å dykke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "加わる",
+        "romaji": "くわわる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli med"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "親切",
+        "romaji": "しんせつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "snillhet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "最近",
+        "romaji": "さいきん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "nå om dagen"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "開く",
+        "romaji": "ひらく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å starte et arrangement"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "やっと"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "til slutt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "醤油",
+        "romaji": "しょうゆ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "soyasaus"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "とうとう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "til slutt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "赤道",
+        "romaji": "せきどう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ekvator"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "氷",
+        "romaji": "こおり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "is"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "避けられない",
+        "romaji": "さけられない"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "uungåelig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "室内",
+        "romaji": "しつない"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "innendørs"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "品物",
+        "romaji": "しなもの"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "varer"
+      },
+      {
+        "word": "gods"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "青少年",
+        "romaji": "せいしょうねん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ungdom"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "角",
+        "romaji": "かど"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hjørne"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "取っ手",
+        "romaji": "とって"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "håndtak"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "しばしば"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ofte"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "集中",
+        "romaji": "しゅうちゅう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "konsentrasjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "権利",
+        "romaji": "けんり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "rettighet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "行動",
+        "romaji": "こうどう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "oppførsel"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "中断する",
+        "romaji": "ちゅうだんする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å forstyrre"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "未成年",
+        "romaji": "みせいねん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "mindeårig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "保つ",
+        "romaji": "たもつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å beholde"
+      },
+      {
+        "word": "å preservere"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "人柄",
+        "romaji": "ひとがら"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "personlighet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "事実",
+        "romaji": "じじつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "virkeligheten"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "懐中電灯",
+        "romaji": "かいちゅうでんとう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "lommelykt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "躊躇う",
+        "romaji": "ためらう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å nøle"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "もしくは"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "eller"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "名字",
+        "romaji": "みょうじ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "etternavn"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "わくわくする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å se fram til"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "興奮しいる",
+        "romaji": "こうふんしている"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å være spent"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "退職",
+        "romaji": "たいしょく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "pensjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "見解",
+        "romaji": "けんかい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "mening"
+      },
+      {
+        "word": "opinion"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "卑怯",
+        "romaji": "ひきょう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "urettferdig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "きっと"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "definitivt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "漏れる",
+        "romaji": "もれる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å lekke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "解く",
+        "romaji": "とく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å løse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "転がる",
+        "romaji": "ころがる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å rulle"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "具合",
+        "romaji": "ぐあい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "condition"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "体重",
+        "romaji": "たいじゅう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "kroppsvekt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "親戚",
+        "romaji": "しんせき"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "slektning"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "心臓",
+        "romaji": "しんぞう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "hjerte"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "関係ない",
+        "romaji": "かんけいない"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "urelatert"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "蝋燭",
+        "romaji": "ろうそく"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "stearinlys"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "修正",
+        "romaji": "しゅうせい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "rettelse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "目眩がする",
+        "romaji": "めまいがする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å være svimmel"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "気を散らす",
+        "romaji": "きをちらす"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å distrahere"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "無害",
+        "romaji": "むがい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ufarlig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "隠れる",
+        "romaji": "かくれる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å gjemme seg"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "後悔する",
+        "romaji": "こうかいする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å angre"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "寛ぐ",
+        "romaji": "くつろぐ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å slappe av"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "くしゃみをする",
+        "romaji": "くしゃみをする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å nyse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "無料",
+        "romaji": "むりょう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "gratis"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "機会",
+        "romaji": "きかい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "mulighet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "浮かぶ",
+        "romaji": "うかぶ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å flyte"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "許可",
+        "romaji": "きょか"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "tillatelse"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "化粧品",
+        "romaji": "けしょうひん"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sminke"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "羨む",
+        "romaji": "うらやむ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å misunne"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "変換する",
+        "romaji": "へんかんする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "konvertere"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "理解",
+        "romaji": "りかい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "forståelse"
+      },
+      {
+        "word": "tolkning"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "溜まる",
+        "romaji": "たまる"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli samlet opp"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ひび"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sprekk"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "通知",
+        "romaji": "つうち"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "notifikasjon"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "環境",
+        "romaji": "かんきょう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "miljø"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "通貨",
+        "romaji": "つうか"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "valuta"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "縁",
+        "romaji": "ふち"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "kant"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "不利",
+        "romaji": "ふり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "ulempe"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "感激する",
+        "romaji": "かんげきする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli rørt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "幼い",
+        "romaji": "おさない"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "liten"
+      },
+      {
+        "word": "barnslig"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "間接",
+        "romaji": "かんせつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "indirekte"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "鋭い",
+        "romaji": "するどい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "skarp"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "高等",
+        "romaji": "こうとう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "avansert"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "信仰",
+        "romaji": "しんこう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "religion"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "確率",
+        "romaji": "かくりつ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sjanse"
+      },
+      {
+        "word": "sannsynlighet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "従う",
+        "romaji": "したがう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å følge"
+      },
+      {
+        "word": "obey"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "無事",
+        "romaji": "ぶじ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sikkert"
+      },
+      {
+        "word": "trygt"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "保証",
+        "romaji": "ほしょう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "garanti"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "免許",
+        "romaji": "めんきょ"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "lisens"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "完了する",
+        "romaji": "かんりょうする"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "å bli ferdig med"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "典型",
+        "romaji": "てんけい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "typisk"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "背景",
+        "romaji": "はいけい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "bakgrunn"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "ひたすら"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "bare"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "感想",
+        "romaji": "かんそう"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "mening"
+      },
+      {
+        "word": "inntrykk"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "真理",
+        "romaji": "しんり"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "sannhet"
+      }
+    ]
+  },
+  {
+    "japanese": [
+      {
+        "word": "氏名",
+        "romaji": "しめい"
+      }
+    ],
+    "norwegian": [
+      {
+        "word": "fullt navn"
+      }
+    ]
+  }
+]
